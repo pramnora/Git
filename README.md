@@ -9,6 +9,11 @@ Git downloads/info./links/tutorials/-etc.
 
 (**NOTE**: Here I'm using Linux Mint OS.)  
 
+Install git...  
+
+> $ sudo apt-get update  
+> $ sudo apt-get install git  
+
 Find help...  
 
 > $ git --help  
