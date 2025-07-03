@@ -9,6 +9,10 @@ Git downloads/info./links/tutorials/-etc.
 
 (**NOTE**: Here I'm using Linux Mint OS.)  
 
+Find help...  
+
+> $ git --help  
+
 Find git version...  
 
 > $ git -- version  
