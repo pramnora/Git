@@ -44,12 +44,16 @@ Set up user name/email...
 - http://ndpsoftware.com/git-cheatsheet.html  
 - https://git-scm.com/book/en/v2  
 
+-----
+
 ### VIDEO TUTORIALS
 
 #### YouTube Video Tutorials
 
 General links  
 - https://www.youtube.com/results?search_query=git+tutorial+for+beginners+windows+  
+
+-----
 
 ### OTHER
 
