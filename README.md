@@ -19,8 +19,8 @@ Find git version...
 
 Set up user name/email...  
 
-> $ git config --global user.name "Your user name: JackJones"    
-> $ git config --global user.email "Your user email: jack.jones@gmail.com"     
+> $ git config --global user.name "pramnora"    
+> $ git config --global user.email "pramnora@yahoo.com"     
 
 Cloning a directory...
 
