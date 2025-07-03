@@ -14,13 +14,13 @@ Install git...
 > $ sudo apt-get update  
 > $ sudo apt-get install git  
 
-Find help...  
-
-> $ git --help  
-
 Find git version...  
 
 > $ git -- version  
+
+Find help...  
+
+> $ git --help  
 
 Set up user name/email...  
 
