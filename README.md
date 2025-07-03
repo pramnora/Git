@@ -26,7 +26,7 @@ Cloning a directory...
 
 > $ git clone "https://github.com/pramnora/git"
 
-...this will pull down the folder directory called: git...;     
+...this will pull down the folder directory/files called: git...;     
 and, store it on your own local computer at home  
 using a folder of the same name: git.     
 
