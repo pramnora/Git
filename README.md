@@ -7,7 +7,16 @@ Git downloads/info./links/tutorials/-etc.
 
 ## Introduction
 
-![image](https://github.com/user-attachments/assets/8e2ef1c6-2e79-40cc-a5c6-39ffa047ca14)
+(**NOTE**: Here I'm using Linux Mint OS.)  
+
+Find git version...  
+
+> $ git -- version  
+
+Set up user name/email...  
+
+> $ git config --global user.name "Your user name"    
+> $ git config --global user.email "Your user email"     
 
 
 -----
