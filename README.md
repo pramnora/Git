@@ -19,8 +19,8 @@ Find git version...
 
 Set up user name/email...  
 
-> $ git config --global user.name "Your user name"    
-> $ git config --global user.email "Your user email"     
+> $ git config --global user.name "Your user name: Jack Jones"    
+> $ git config --global user.email "Your user email: jack.jones@gmail.com"     
 
 
 -----
