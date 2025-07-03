@@ -5,6 +5,13 @@ Git downloads/info./links/tutorials/-etc.
 
 -----
 
+## Introduction
+
+![image](https://github.com/user-attachments/assets/8e2ef1c6-2e79-40cc-a5c6-39ffa047ca14)
+
+
+-----
+
 ## Links
 
 ### GITHUB
