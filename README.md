@@ -19,12 +19,14 @@ Find git version...
 
 Set up user name/email...  
 
-> $ git config --global user.name "pramnora"    
-> $ git config --global user.email "pramnora@yahoo.com"     
+> $ git config --global user.name "yourGitHubUserName"    
+> $ git config --global user.email "yourEmailName@yourEmailProviderName.com"     
 
-Cloning a directory...
+Cloning a directory...  
 
-> $ git clone "https://github.com/pramnora/git"
+> $ git clone "https://github.com/gitHubRepositaryUserName/repositoryName"  
+...for example, to clone this particular folder/files directory, use:...  
+> $ git clone "https://github.com/pramnora/git"  
 
 ...this will pull down the folder directory/files called: git...;     
 and, store it on your own local computer at home  
