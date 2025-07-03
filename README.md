@@ -22,6 +22,13 @@ Set up user name/email...
 > $ git config --global user.name "Your user name: Jack Jones"    
 > $ git config --global user.email "Your user email: jack.jones@gmail.com"     
 
+Cloning a directory...
+
+> $ git clone "https://github.com/pramnora/git"
+
+...this will pull down the folder directory called: git...;     
+and, store it on your own local computer at home  
+using a folder of the same name: git.     
 
 -----
 
